@@ -1,3 +1,5 @@
+**NOTE:** This is a fork/vendoring of http://code.google.com/p/snappy-go
+
 This is a Snappy library for the Go programming language.
 
 To download and install from source:
